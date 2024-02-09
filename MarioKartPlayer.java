@@ -1,6 +1,6 @@
 // Programmer(s): Matthew Woodside
 // Course: CS212
-// Due Date: 2/2/2024
+// Due Date: 2/8/2024
 // In Class Assignment: 4.2
 // Problem Statement: Very simple Mario Kart program that allows the users to play
 // Data In: Names
