@@ -1,6 +1,8 @@
 // Imports the Scanner utility
 import java.util.Scanner;
 public class MarioKartGame {
+
+    // Main Method
     public static void main(String[] args){
 
         // Sets up the Scanner utility with 'input'
